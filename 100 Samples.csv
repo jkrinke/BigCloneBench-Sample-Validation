@@ -1,0 +1,104 @@
+﻿Pair,Label L,Label R,Pair (J1),Label L (J1),Label R (J1),Notes (J1),Pair (J2),Label L (J2),Label R (J2),Notes (J2),Snippet L,Snippet R,,,,,,,,,,,,,,
+xx,T,T,T,T,T,,F,T,T,"A only specifies destination, B needs two locations.",1357662,11403723,4,tagged-tagged,3,0.166666667,0.495867769,10,12,10,12,1,1,85,121,FALSE
+T,T,T,T,T,T,,T,T,T,,2602105,19240485,4,tagged-tagged,3,0.090909091,0.563218391,10,10,10,11,1,1,67,87,FALSE
+F,T,F,F,T,F,B: Copy to tar archive,F,T,F,B compresses a file.,1863214,2642914,4,tagged-tagged,3,0.181818182,0.435582822,10,22,10,22,1,1,81,163,FALSE
+F,F,F,F,F,F,"A: Updater, B: encode",F,F,F,"A updates image, B encodes file.",13299924,18731109,4,tagged-tagged,3,0.243243243,0.474452555,27,37,27,37,1,1,193,274,FALSE
+F,F,T,F,F,T,"A: encode, not just copy",F,F,T,,6244936,23071780,4,tagged-tagged,3,0.222222222,0.388601036,13,27,14,27,1,1,83,193,FALSE
+F,F,T,F,F,T,A: is a test,F,F,T,A is a test,3024984,8407905,4,tagged-tagged,3,0.166666667,0.475524476,11,16,11,18,1,1,102,143,FALSE
+F,F,F,F,F,F,"A: Storage, B: encode",F,F,F,,1244216,18042543,4,tagged-tagged,3,0.066666667,0.188976378,7,29,7,30,1,1,50,254,FALSE
+F,F,xx,F,F,T,A: Customer data,F,F,F,,7872660,19360483,4,tagged-tagged,3,0.14516129,0.242063492,23,59,23,62,1,1,138,504,FALSE
+F,T,xx,F,T,T,B: too specific,F,T,F,B loads jar file.,20310134,23192841,4,tagged-tagged,3,0.142857143,0.4375,9,12,9,14,1,1,59,96,FALSE
+F,F,T,F,F,T,A: Conversion,F,F,T,,480017,8296360,4,tagged-tagged,3,0.084337349,0.227513228,25,83,28,83,1,1,232,756,FALSE
+F,F,F,F,F,F,"A: rewrite, B: compress",F,F,F,"A rewrites file, B compresses file.",811157,2691849,4,tagged-tagged,3,0.181818182,0.563218391,18,20,20,22,1,1,202,261,FALSE
+F,xx,T,F,T,T,A: additional function,F,F,T,,6424937,12980227,4,tagged-tagged,3,0.133333333,0.549450549,11,15,11,15,1,1,74,91,FALSE
+F,F,T,F,F,T,A: upload,F,F,T,,8856524,10089329,4,tagged-tagged,3,0.052631579,0.166666667,9,57,11,57,1,1,85,450,FALSE
+F,T,F,F,T,F,B: Test,F,T,F,B is test,12306296,20681845,4,tagged-tagged,3,0.139534884,0.54723127,36,43,36,43,1,1,235,307,FALSE
+F,F,F,F,F,F,"A: encode, B: ?",F,F,F,,8793825,19962044,4,tagged-tagged,3,0.037037037,0.088082902,3,27,5,27,1,1,20,193,FALSE
+F,F,T,F,F,T,A: download,F,F,T,,15999201,18098898,4,tagged-tagged,3,0.35,0.309352518,8,20,8,20,1,1,45,139,FALSE
+F,F,xx,F,F,F,"A: rewrite, B: rewrite",F,F,T,,288978,12465375,4,tagged-tagged,3,0.032786885,0.427983539,20,51,20,61,1,1,261,486,FALSE
+F,F,F,F,F,F,"A: conversion, B: conversion",F,F,F,"A converts file, B extracts file.",137600,12838274,4,tagged-tagged,3,0.111888112,0.351924588,83,130,83,143,1,1,756,1273,FALSE
+F,F,T,F,F,T,A: archive,F,F,T,,6464850,22271237,4,tagged-tagged,3,0.333333333,0.413654618,19,35,19,36,1,1,115,249,FALSE
+F,xx,xx,F,F,F,"A: conversion, B: conversion",F,T,T,,44949,8778962,4,tagged-tagged,3,0.148148148,0.482758621,20,27,20,27,1,1,193,261,FALSE
+F,xx,F,F,F,F,"A; conversion, B: backup",F,T,F,B copies a folder.,850680,17597670,4,tagged-tagged,3,0.060606061,0.442265795,20,61,20,66,1,1,261,459,FALSE
+F,F,T,F,F,T,A: conversion,F,F,T,,250596,10797051,4,tagged-tagged,3,0.111111111,0.383419689,8,27,9,27,1,1,91,193,FALSE
+F,F,F,F,F,F,"A: encode, B: ?",F,F,F,A writes output to a file.,8709510,15767021,4,tagged-tagged,3,0.040540541,0.064770932,6,66,6,74,1,1,44,633,FALSE
+F,F,F,F,F,F,"A: test, B: parse",F,F,F,A writes and reads the same file.,694747,7149578,4,tagged-tagged,3,0.121019108,0.307816277,81,132,87,157,1,1,664,1248,FALSE
+F,F,T,F,F,T,A: create structure,F,F,T,,7727956,23613195,4,tagged-tagged,3,0.046511628,0.075457317,13,127,15,129,1,1,112,1313,FALSE
+F,F,F,F,F,F,"A: conversion, B: conversion",F,F,F,B has copy between content channels,18793482,19746605,4,tagged-tagged,3,0.204081633,0.606976744,40,42,48,49,1,1,419,430,FALSE
+F,F,F,F,F,F,"A: test, B: conversion",F,F,F,"A is test, B copies content to files",3265819,9413061,4,tagged-tagged,3,0.208333333,0.494791667,16,22,16,24,1,1,135,192,FALSE
+F,F,F,F,F,F,"A: conversion, B: ?",F,F,F,"A migrates file format, B does more than copying file.",4349491,15551591,4,tagged-tagged,3,0.03030303,0.407407407,19,61,19,66,1,1,243,486,FALSE
+F,F,F,F,F,F,"A: ?, B: storage",F,F,F,"A writes input stream to a file, B write files in one folder into another.",4542694,8637246,4,tagged-tagged,3,0.263157895,0.483606557,13,18,13,19,1,1,78,122,FALSE
+F,F,F,F,F,F,"A: ?, B: read file",F,F,F,,16083957,18779982,4,tagged-tagged,3,0.161290323,0.35546875,24,61,26,62,1,1,224,512,FALSE
+F,F,F,F,F,F,"A: compress, B: test",F,F,F,"A compresses, B is test",4118412,17891160,4,tagged-tagged,3,0.107142857,0.332167832,10,28,10,28,1,1,111,286,FALSE
+F,F,F,F,F,F,"A: encrypt, B: decode",F,F,F,"A encrypts, B unzips",8361376,11779246,4,tagged-tagged,3,0.16,0.52173913,21,25,22,25,1,1,172,253,FALSE
+F,F,T,F,F,T,A: restore,F,F,T,A restores backup DB,16797552,20019830,4,tagged-tagged,3,0.36,0.642424242,22,25,22,25,1,1,128,165,FALSE
+F,T,F,F,T,F,B: parse,F,T,F,B parses input stream.,7524607,9324781,4,tagged-tagged,3,0.15625,0.338582677,12,32,12,32,1,1,104,254,FALSE
+F,F,xx,F,F,T,A: read,F,F,F,"A reads string, B downloaded image.",4599372,9769234,4,tagged-tagged,3,0.076923077,0.535211268,7,13,7,13,1,1,61,71,FALSE
+F,T,F,F,T,F,B: ?,F,T,F,,3767903,21919199,4,tagged-tagged,3,0.147058824,0.386986301,19,34,21,34,1,1,138,292,FALSE
+F,F,F,F,F,F,"A: conversion, B: ?",F,F,F,A converts file,91017,13852596,4,tagged-tagged,3,0.204819277,0.461640212,62,83,64,83,1,1,491,756,FALSE
+F,T,F,F,T,F,B: ?,F,T,F,B has lots of text,2066343,19962035,4,tagged-tagged,3,0.111111111,0.207317073,3,9,5,9,1,1,20,82,FALSE
+F,F,xx,F,F,F,"A: ?, B: ?",F,F,T,B saves stream to file.,12544564,21150253,4,tagged-tagged,3,0.095238095,0.060763889,10,54,10,63,1,1,38,576,FALSE
+F,F,F,F,F,F,"A: conversion, B: ?",F,F,F,"A converts file, B read files.",44823,9339937,4,tagged-tagged,3,0.048192771,0.470899471,44,83,47,83,1,1,513,756,FALSE
+F,F,F,F,F,F,"A: ?, B: ?",F,F,F,"A saves stream to file, B makes HTTP request",2386120,9261908,4,tagged-tagged,3,0.048128342,0.049065421,12,192,12,187,1,1,71,1284,FALSE
+F,F,T,F,F,T,A: logging,F,F,T,A saves log to file,7038631,21715891,4,tagged-tagged,3,0.203125,0.434968017,37,54,37,64,1,1,275,469,FALSE
+F,F,T,F,F,T,A: rewrite,F,F,T,A rewrites file,10851,11826346,4,tagged-tagged,3,0.05,0.095785441,3,20,3,20,1,1,26,261,FALSE
+F,F,F,F,F,F,"A: encode, B: download",F,F,F,"A encodes, B downloads",831649,4042184,4,tagged-tagged,3,0.3,0.590673575,27,30,27,30,1,1,190,193,FALSE
+F,F,F,F,F,F,"A: test, B: archive",F,F,F,"A is test, B creates war file.",18070587,21280043,4,tagged-tagged,3,0.114754098,0.300884956,22,61,22,61,1,1,167,452,FALSE
+F,F,F,F,F,F,"A: upload, B: ?",F,F,F,,9371509,18318816,4,tagged-tagged,3,0.105263158,0.425742574,42,75,42,76,1,1,364,707,FALSE
+F,F,F,F,F,F,"A: download, B: test",F,F,F,"A downloads file, B does many things",4076620,22801734,4,tagged-tagged,3,0.086206897,0.20501139,17,51,17,58,1,1,107,439,FALSE
+F,F,F,F,F,F,"A: archive, B: setup",F,F,F,A zips file,5875193,8567304,4,tagged-tagged,3,0.238095238,0.561290323,17,21,17,21,1,1,139,155,FALSE
+F,T,F,F,T,F,B: ?,F,T,F,B does many things.,3422759,7005223,4,tagged-tagged,3,0.029801325,0.033462487,19,291,19,302,1,1,115,2839,FALSE
+F,FF,T,F,FF,T,A: rewrite,F,FF,T,"A rewrites file, B copies file.",288978,3584277,4,tagged-tagged,3,0.05,0.298850575,12,20,14,20,1,1,96,261,FALSE
+F,TT,F,F,TT,F,B: zip,F,TT,F,B unzips file,3767903,17477957,4,tagged-tagged,3,0.304347826,0.556149733,19,22,21,23,1,1,138,187,FALSE
+F,T,F,F,T,F,B: stream copy,F,T,F,B writes input stream to file,6399107,19172383,4,tagged-tagged,3,0.222222222,0.771428571,7,9,7,9,1,1,67,70,FALSE
+T,T,T,T,T,T,,T,T,T,,11036037,22456976,4,tagged-tagged,3,0.387096774,0.564935065,17,31,17,31,1,1,105,154,FALSE
+F,F,F,F,F,F,"A: ?, B: ?",F,F,F,B creates parse file reader.,14868224,20654481,4,tagged-tagged,3,0.090909091,0.165148064,25,110,25,121,1,1,174,879,FALSE
+F,F,F,F,F,F,"A: extract, B: ?",F,F,F,"A extracts file, B creates response",11560551,21900384,4,tagged-tagged,3,0.142857143,0.516908213,18,28,18,28,1,1,143,208,FALSE
+xx,xx,T,F,F,T,A: conversion,T,T,T,B is much longer.,7993946,8430178,4,tagged-tagged,3,0.075949367,0.184070796,13,64,14,79,1,1,113,565,FALSE
+F,F,F,F,F,F,"A: conversion, B: ?",F,F,F,"A converts file, B writes to XML",420619,5824705,4,tagged-tagged,3,0.13253012,0.302910053,39,83,39,83,1,1,261,756,TRUE
+F,F,F,F,F,F,"A: zip, B: decode",F,F,F,"A adds file to zip, B decodes file to another file.",6704750,9088423,4,tagged-tagged,3,0.074074074,0.18134715,5,27,5,27,1,1,39,193,FALSE
+F,FF,F,F,FF,F,"A: encode, B: ?",F,FF,F,"A encodes file, B sends data through socket",8793825,21057438,4,tagged-tagged,3,0.134328358,0.291828794,27,60,27,67,1,1,193,514,FALSE
+F,F,F,F,F,F,"A: conversion, B: write data",F,F,F,"A converts file, B saves settings to file.",210006,20644477,4,tagged-tagged,3,0.012048193,0.05026455,5,83,5,83,1,1,46,756,FALSE
+F,F,FF,F,F,FF,"A: ?, B:?",F,F,FF,,12512647,21900384,4,tagged-tagged,3,0.260869565,0.426273458,28,45,28,46,1,1,208,373,FALSE
+T,T,T,T,T,T,,T,T,T,,13111022,19710610,4,tagged-tagged,3,0.318181818,0.666666667,17,19,18,22,1,1,124,126,FALSE
+F,F,T,F,F,T,A: ?,F,F,T,A is 400+ line long,2235431,4232438,4,tagged-tagged,3,0.028340081,0.048595849,32,441,32,494,1,1,249,4095,FALSE
+F,T,F,F,T,F,B: ?,F,T,F,B writes resource to file.,14702119,17907353,4,tagged-tagged,3,0.058823529,0.395061728,7,17,7,17,1,1,68,162,FALSE
+F,F,F,F,F,F,"A: decode, B: compression",F,F,F,"A decodes a file, B transforms file",7460370,17231006,4,tagged-tagged,3,0.222222222,0.524163569,26,27,27,27,1,1,193,269,FALSE
+F,F,xx,F,F,T,A: test,F,F,F,"A is test, B moves file",5785861,17467385,4,tagged-tagged,3,0.090909091,0.420512821,13,22,14,22,1,1,102,195,FALSE
+xx,T,T,F,T,T,,T,T,T,,1890824,16719805,4,tagged-tagged,3,0.176470588,0.494623656,27,32,28,34,1,1,198,279,FALSE
+xx,T,T,F,T,T,,T,T,T,,6379125,17014629,4,tagged-tagged,3,0.204081633,0.555555556,21,45,22,49,1,1,246,261,FALSE
+F,F,F,F,F,F,"A: rewrite, B: ?",F,F,F,B populates data table.,709584,8939074,4,tagged-tagged,3,0.057692308,0.319386332,20,51,20,52,1,1,261,717,FALSE
+F,T,F,F,T,F,B: test,F,T,F,B writes stream to file,6778337,12626918,4,tagged-tagged,3,0.3,0.684931507,8,9,8,10,1,1,59,73,FALSE
+F,F,TT,F,F,TT,A: conversion,F,F,TT,"A converts file, B copies file",704314,23613195,4,tagged-tagged,3,0.060240964,0.12962963,13,83,15,83,1,1,112,756,FALSE
+F,F,F,F,F,F,"A: ?, B: read file",F,F,F,"A combines CSS, B writes stream to file",5125847,17467778,4,tagged-tagged,3,0.047619048,0.06614786,5,63,5,63,1,1,35,514,FALSE
+F,F,T,F,F,T,A: conversion,F,F,T,A converts file,812803,9186576,4,tagged-tagged,3,0.036144578,0.097883598,8,83,8,83,1,1,77,756,FALSE
+xx,xx,xx,F,F,F,"A: test, B: backup",T,T,T,,17415423,21889400,4,tagged-tagged,3,0.272727273,0.605442177,19,22,19,22,1,1,130,147,FALSE
+F,F,T,F,F,T,A: read,F,F,T,A writes stream to file,16199085,17534703,4,tagged-tagged,3,0.074074074,0.163972286,12,43,12,54,1,1,83,433,FALSE
+T,T,T,T,T,T,,T,T,T,,16944401,23630686,4,tagged-tagged,3,0.3125,0.539823009,10,16,10,16,1,1,74,113,FALSE
+F,F,T,F,F,T,A: ?,F,F,T,A shutdowns system (contains copy file),9312243,13915960,4,tagged-tagged,3,0.166666667,0.462093863,34,36,34,36,1,1,195,277,FALSE
+F,F,T,F,F,T,A: read,F,F,T,A write stream to file,983036,17830886,4,tagged-tagged,3,0.058823529,0.37398374,6,15,6,17,1,1,49,123,FALSE
+F,F,T,F,F,T,A: conversion,F,F,T,A is test,3024989,9195362,4,tagged-tagged,3,0.153846154,0.395833333,11,24,11,26,1,1,67,144,FALSE
+F,F,T,F,F,T,A: diff,F,F,T,A shows diff,98368,19926877,4,tagged-tagged,3,0.102040816,0.182448037,17,48,17,49,1,1,99,434,FALSE
+F,F,F,F,F,F,"A: encode, B: write",F,F,F,"A encodes file to another file, B writes stream to file",8612647,21907699,4,tagged-tagged,3,0.148148148,0.466321244,17,27,17,27,1,1,118,193,FALSE
+xx,T,T,F,T,T,,T,T,T,,5760649,18773070,4,tagged-tagged,3,0.208333333,0.436619718,11,23,11,24,1,1,77,142,FALSE
+F,FF,F,F,FF,F,"A: rewrite, B: ?",F,FF,F,B writes content to a file,811157,3993124,4,tagged-tagged,3,0.217391304,0.482758621,20,23,20,23,1,1,152,261,FALSE
+F,T,xx,F,T,T,,F,T,F,B copies a folder,2198030,4591684,4,tagged-tagged,3,0.24137931,0.51754386,16,28,17,29,1,1,147,228,FALSE
+F,F,F,F,F,F,"A; conversion, B: ?",F,F,F,"A converts file, B processes HTTP request",942693,20517803,4,tagged-tagged,3,0.072289157,0.150793651,17,83,17,83,1,1,140,756,FALSE
+xx,T,TT,F,T,TT,,T,T,TT,,3874060,6379125,4,tagged-tagged,3,0.236842105,0.544715447,21,37,22,38,1,1,228,246,FALSE
+F,F,T,F,F,T,A: read,F,F,T,A writes stream to file,9880330,20741536,4,tagged-tagged,3,0.071428571,0.588888889,8,14,8,14,1,1,65,90,FALSE
+F,F,F,F,F,F,"A; write, B: ?",F,F,F,A writes stream to file,6597127,12524253,4,tagged-tagged,3,0.007092199,0.02915952,5,139,5,141,1,1,40,1166,FALSE
+F,F,T,F,F,T,A: convert,F,F,T,A converts file,310182,10536444,4,tagged-tagged,3,0.072289157,0.119047619,12,83,12,83,1,1,105,756,FALSE
+F,F,F,F,F,F,"A: test, B: ?",F,F,F,,15637504,21162921,4,tagged-tagged,3,0.157894737,0.513245033,24,38,24,38,1,1,204,302,FALSE
+T,F,F,T,F,F,"A: encode, B: encode",T,F,F,Both encodes files,10195648,16388707,4,tagged-tagged,3,0.296296296,0.582524272,25,27,27,27,1,1,193,206,FALSE
+F,F,F,F,F,F,"A: rewrite, B: test",F,F,F,"A rewrites file, B download file.",330216,14843540,4,tagged-tagged,3,0.15,0.61302682,18,20,18,20,1,1,204,261,FALSE
+F,F,F,F,F,F,"A: convert, B: ?",F,F,F,"A converts file, B sends HTTP response",823074,9722633,4,tagged-tagged,3,0.012048193,0.044973545,4,83,4,83,1,1,38,756,FALSE
+F,F,T,F,F,T,A: convert,F,F,T,A fixes EOL problem,4147982,19870772,4,tagged-tagged,3,0.105263158,0.432624113,16,36,17,38,1,1,161,282,FALSE
+F,FF,F,F,FF,F,"A: ?, B: ?",F,FF,F,,18318816,18340402,4,tagged-tagged,3,0.184210526,0.479490806,49,75,51,76,1,1,450,707,FALSE
+F,F,F,F,F,F,"A: ?, B: compress",F,F,F,"A boots kernel, B compresses file",7499186,21649269,4,tagged-tagged,3,0.2,0.533123028,25,35,25,35,1,1,220,317,FALSE
+xx,T,xx,F,T,F,B: zip,T,T,T,B unzips file but actually just copies,6185786,14729262,4,tagged-tagged,3,0.333333333,0.572463768,18,18,18,18,1,1,108,138,FALSE
+F,F,T,F,F,T,A: encode,F,F,T,"A encodes file, B ",2711644,3660402,4,tagged-tagged,3,0.382352941,0.606217617,27,34,27,34,1,1,177,193,FALSE
+F,T,F,F,T,F,B: read,F,T,F,B writes stream to file,938889,3287812,4,tagged-tagged,3,0.05,0.298507463,6,20,6,20,1,1,50,134,FALSE
+T,T,T,T,T,T,,T,T,T,,10467996,18880060,4,tagged-tagged,3,0.428571429,0.713286713,17,21,19,21,1,1,127,143,FALSE
+6,23,34,True positives,,,,13,28,41,,,,,,,,,,,,,,,,,
+86,67,53,False Positives,,,,87,72,59,,,,,,,,,,,,,,,,,
+8,5,10,No agreement,,,,,,,,,,,,,,,,,,,,,,,
