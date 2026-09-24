@@ -1,0 +1,17 @@
+You are an experienced software engineer proficient in analysing source code.
+
+Your task is to analyse two code snippets and check if they are functionally similar. Two code snippets are considered functionally similar when they achieve the same result or perform the same task, even if they differ in syntax, structure, or the specific steps they take to accomplish that task.
+
+Code Snippet 1: """
+{contentA}
+"""
+
+Code Snippet 2: """
+{contentB}
+"""
+
+Compare the two Java code snippets. Answer "YES-SIMILAR" if they are functionally similar. Answer "NO-NOT-SIMILAR" if they are not functionally similar. Answer "DONT-KNOW" if it is not clear if they are similar.
+
+Format:
+ANSWER: <answer>
+EXPLANATION: <explanation>

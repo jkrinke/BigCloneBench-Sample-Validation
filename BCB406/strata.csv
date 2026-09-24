@@ -1,0 +1,44 @@
+Functionality,Name,Reported WT3/T4,Eligible tagged-tagged WT3/T4,Initial allocation,Sample,Coverage addition,Human consensus false,Unanimous false,Post-LLM false
+2,Download From Web,394807,401608,18,18,0,18,15,18
+3,Secure Hash,811635,861353,37,37,0,28,9,28
+4,Copy File,4651096,4600559,211,211,0,201,200,201
+5,Decompress zip archive,33,20,0,1,1,0,0,0
+6,Connect to FTP Server,24336,22025,1,1,0,1,1,1
+7,Bubble Sort Array,10029,10288,0,1,1,1,1,1
+8,Setup SGV,250,236,0,1,1,1,1,1
+9,Setup SGV Event Handler,54,45,0,1,1,1,1,1
+10,Execute update and rollback,268152,235342,12,12,0,12,9,12
+11,Initialize Java Eclipse Project,244,223,0,1,1,1,0,1
+12,Get Prime Factors,169,106,0,1,1,1,1,1
+13,Shuffle Array in Place,2168,2323,0,1,1,0,0,0
+14,Binary Search,82323,76860,4,4,0,2,2,3
+15,Load Custom Font,337,252,0,1,1,1,1,1
+17,Create Encryption Key Files,200,151,0,1,1,1,1,1
+18,Play Sound,637,574,0,1,1,1,1,1
+19,Take Screenshot to File,5118,5023,0,1,1,1,1,1
+20,Fibonacci,4369,9034,0,1,1,0,0,0
+21,XMPP Send Message,277,270,0,1,1,1,1,1
+22,Encrypt To File,2678,2678,0,1,1,1,1,1
+23,Resize Array,89671,76675,4,4,0,4,4,4
+24,Open URL in System Browser,64921,62189,3,3,0,3,3,3
+25,Open File in Desktop Application,4963,4846,0,1,1,1,1,1
+26,GCD,156,141,0,1,1,0,0,0
+27,Call Method Using Reflection,82847,77555,4,4,0,4,4,4
+28,Parse XML to DOM,18346,18353,1,1,0,1,1,1
+29,Convert Date String Format,1593,1593,0,1,1,1,1,1
+30,Zip Files,980818,957807,44,44,0,44,38,44
+31,File Dialog,109659,99354,5,5,0,5,5,5
+32,Send E-Mail,26638,27389,1,1,0,1,1,1
+33,CRC32 File Checksum,38972,36735,2,2,0,2,2,2
+34,Execute External Process,103676,102850,5,5,0,5,5,5
+35,Instantiate Using Reflection,367729,348637,17,17,0,17,14,17
+36,Connect to Database,20070,20056,1,1,0,1,1,1
+37,Load File into Byte Array,11267,11292,1,1,0,1,1,1
+38,Get MAC Address String,235,206,0,1,1,1,0,1
+39,Delete Folder and Contents,30299,33613,1,1,0,0,0,0
+40,Parse CSV File,18379,18422,1,1,0,1,1,1
+41,Transpose a Matrix,123684,106524,6,6,0,6,6,6
+42,Extract Matches Using Regex,122324,123760,6,6,0,6,6,6
+43,Copy Directory,10215,10023,0,1,1,1,0,1
+44,Test Palindrome,2234,2823,0,1,1,0,0,1
+45,Write PDF File,11286,11798,1,1,0,1,1,1
